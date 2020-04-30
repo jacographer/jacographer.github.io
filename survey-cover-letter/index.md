@@ -6,6 +6,4 @@ The survey will be conducted online and should not take more than 10 minutes to 
 
 Participation in the survey is entirely optional. You will not get any personal benefit from taking part in this study, though you will contribute to a better understanding of societal relationships between devices and users. The are no costs associated with taking part in this study.
 
-[Take the survey](https://jacographer.github.io/survey/)
-
-<a href="https://jacographer.github.io/survey/" target="_blank">Take the survey</a>
+<a href="https://jacographer.github.io/survey/">Take the survey</a>
