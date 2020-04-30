@@ -1,4 +1,4 @@
-#Information for Survey Participants
+## Information for Survey Participants
 
 You will not qualify for this survey if you are not a resident of Fayette, Jefferson, or Warren County; if you are under 18 years of age or older than 30 years of age; if you do not own and use a smartphone; if you have not been practicing social distancing in accordance with the Executive Orders from the Governor’s Office.
 
