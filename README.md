@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+###Introduction to the research project, i.e. invitation to participate. Will include details of, and [link to survey](https://jacographer.github.io/survey)
+
 You can use the [editor on GitHub](https://github.com/jacographer/jacographer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
