@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-###Introduction to the research project, i.e. invitation to participate. Will include details of, and [link to survey](https://jacographer.github.io/survey)
+### Introduction to the research project
+i.e. invitation to participate. Will include study details and [link to survey](https://jacographer.github.io/survey)
 
 You can use the [editor on GitHub](https://github.com/jacographer/jacographer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
