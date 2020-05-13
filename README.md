@@ -1,40 +1,10 @@
-## Welcome to GitHub Pages
+## Social Distance and Digital Wellbeing
 
-### Introduction to the research project
-i.e. invitation to participate. Will include study details and [link to survey](https://jacographer.github.io/survey)
+### Project Description
+The aim of this research project is to learn about how Kentuckians are using their smartphones during the pandemic, and particularly how their smartphone use affects (and is affected by) their experiences of space while social distancing. The project consists of an online survey and in-depth interviews which ask participants about their smart phone usage habits, screen time metrics, and practices of digital wellbeing.
 
-You can use the [editor on GitHub](https://github.com/jacographer/jacographer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The survey is conducted online and should not take more than 10 minutes to complete. Eligible particpants will be entered to win one of two $100 cash prizes.
+[Take the survey](https://jacographer.github.io/survey)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacographer/jacographer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Survey participants will be able to opt in to an approximately 60-minute remote interview. Participants will receive $20 for their time.
+[Email Jacob Saindon](jsaindon@uky.edu) if you have not completed the survey but would like to be considered for the interview.
