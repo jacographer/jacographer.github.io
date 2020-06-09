@@ -1,6 +1,6 @@
 ## Information for Survey Participants
 
-You will not qualify for this survey if you are not a resident of Boone, Fayette, Jefferson, Kenton, or Warren County; if you are under 18 years of age or older than 34 years of age; if you do not own and use a smartphone; if you have not been practicing social distancing in accordance with the guidance and Executive Orders from the Governor’s Office.
+You will not qualify for this survey if you are not a resident of Boone, Fayette, Jefferson, Kenton, or Warren County; if you are under 18 years of age or older than 34 years of age; if you do not own and use a smartphone.
 
 The survey will be conducted online and should not take more than 10 minutes to complete. You will be asked to answer a series of questions regarding your smartphone usage habits and your understanding and practices of digital wellbeing. The questions will address smartphone use and digital wellbeing in the circumstances of a global pandemic, which may cause discomfort for respondents. Otherwise, there are no risks associated with the study.
 
