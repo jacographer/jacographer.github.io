@@ -7,4 +7,4 @@ The survey is conducted online and should not take more than 10 minutes to compl
 [Take the survey](https://jacographer.github.io/survey)
 
 Survey participants will be able to opt in to be contacted regarding an approximately 60-minute follow-up interview (done remotely). Participants will receive $20 for their time.
-Email Jacob Saindon (jsaindon@uky.edu) if you have not completed the survey but would like to be considered for the interview.
+Email Jacob Saindon (<jsaindon@uky.edu>) if you have not completed the survey but would like to be considered for the interview.
