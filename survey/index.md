@@ -1,4 +1,4 @@
-## Social Distance and Digital Wellbeing Survey
+## Social Distance and Digital Wellbeing
 
 Please read the <a href="https://jacographer.github.io/survey-cover-letter/" target="_blank">Information for Survey Participants</a> before completing the survey.
 
