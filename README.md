@@ -1,2 +1,2 @@
-## PhD Student / Geography
-### [@jacographer](https://twitter.com/jacographer)
+PhD Student / Geography
+[@jacographer](https://twitter.com/jacographer)
