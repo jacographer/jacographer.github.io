@@ -2,8 +2,6 @@ body {
     text-align: center;
     margin: 0px;
     font-family: 'Inconsolata', monospace;
-    background-color: rgba(28, 28, 28, 0);
-    color: rgba (200, 200, 200, 0);
 }
 
 .about {
