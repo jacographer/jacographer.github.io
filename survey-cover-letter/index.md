@@ -1,4 +1,4 @@
-## Information for Survey Participants
+Information for Survey Participants
 
 **As of 8/1/20, new survey entries are no longer eligible to win prizes.**
 
