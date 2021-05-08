@@ -1,13 +1,9 @@
 body {
-    text-align: center;
+    text-align: left;
     margin: 0px;
     font-family: 'Inconsolata', monospace;
 }
 
 .about {
     padding: 0px;
-}
-
-.projects {
-    padding: 10px;
 }
