@@ -15,23 +15,28 @@
 
     p {
       font-weight: 400;
-      font-size: 1.2em;
+      font-size: 1.2rem;
     }
 
     ul {
       font-weight: 400;
-      font-size: 1.2em;
+      font-size: 1.2rem;
+    }
+
+    li {
+      list-style-type: "\25B8";
+      padding: 0.5rem;
     }
 
     h1 {
       font-weight: 600;
-      font-size: 3em;
-      color: darksalmon
+      font-size: 3rem;
+      color: darksalmon;
     }
 
     h2 {
       font-weight: 400;
-      font-size: 1.5em;
+      font-size: 1.5rem;
       color: darksalmon
     }
 
@@ -39,18 +44,18 @@
       color: bisque;
     }
 
-    @media screen and (min-width: 30em) {
+    @media screen and (min-width: 30rem) {
       p {
-        font-size: 1.5em
+        font-size: 1.5rem;
       }
       ul {
-        font-size: 1.5em
+        font-size: 1.5rem;
       }
       h1 {
-      font-size: 4em;
+      font-size: 4rem;
       }
       h2 {
-      font-size: 2em;
+      font-size: 2rem;
       }
     }
 
@@ -77,35 +82,51 @@
       background-color: transparent;
       text-decoration: underline;
     }
+
+    .footer {
+      font-size: 0.8rem;
+      left: 0;
+      bottom: 0;
+      height: 2.5rem;
+      width: 100%;
+      position: fixed;
+      background: rgb(28, 28, 28);
+      text-align: center;
+    }
+
+    hr {
+      width: 85%;
+      border: 0.1px solid darksalmon;
+    }
   </style>
 
 </head>
 
 <body>
     <h1>jacob saindon</h1>
-    <h2>PhD Student, Geography<br>University of Kentucky<br><i>he/him</i></h2>
-    <ul>
-      <a href="https://geography.as.uky.edu/users/jsa324" target="_blank">UK page &#8605</a><br>
-      <a href="https://jacographer.com/portfolio">Map portfolio &#8605</a><br>
-      <a href="https://twitter.com/jacographer" target="_blank">@jacographer &#8605</a>
-    </ul>
+    <p>PhD student working on human, digital geographies at University of Kentucky Geography. <i>he/him.</i></p>
     <h2>Publications</h2>
     <ul>
-      Editorial Collective (2022): <a href="https://uknowledge.uky.edu/disclosure/vol30/iss1/" target="_blank">disClosure, Vol. 30: Queer Theory & Animal Theory &#8605</a><br>
-      Book Review (2022): <a href="https://doi.org/10.1177/14744740221110584" target="_blank">The Ruse of Repair &#8605</a><br>
-      Book Review (2020): <a href="https://doi.org/10.1111/cag.12647" target="_blank">How We Became Our Data &#8605</a><br>
+      <li>Editorial Collective (2022): <a href="https://uknowledge.uky.edu/disclosure/vol30/iss1/" target="_blank">disClosure, Vol. 30: Queer Theory & Animal Theory &#8605</a></li>
+      <li>Book Review (2022): <a href="https://doi.org/10.1177/14744740221110584" target="_blank">The Ruse of Repair &#8605</a></li>
+      <li>Book Review (2020): <a href="https://doi.org/10.1111/cag.12647" target="_blank">How We Became Our Data &#8605</a></li>
     </ul>
     <h2>Conferencing</h2>
         <ul>
-        Call for Papers: AAG 2023,</b> <a href="https://jacographer.com/aag-cfp-23"> Digital // Attention // Geographies &#8605</a><br>
-        <span>"Three vignettes of a billboardscape"</span> | SEDAAG 2022<br>
-        <span>"Relational self-care: reconceptualizing the role of digital well-being through pandemic screen time self-tracking"</span> | AAG 2022<br>
-        <span>"The use of distraction: doomscrolling, losing time, and digital well-being in pandemic space-times"</span> | 4S 2021
+        <li>Call for Papers: AAG 2023,</b> <a href="https://jacographer.com/aag-cfp-23"> Digital // Attention // Geographies &#8605</a></li>
+        <li><span>"Three vignettes of a billboardscape"</span> | SEDAAG 2022<br></li>
+        <li><span>"Relational self-care: reconceptualizing the role of digital well-being through pandemic screen time self-tracking"</span> | AAG 2022<br></li>
+        <li><span>"The use of distraction: doomscrolling, losing time, and digital well-being in pandemic space-times"</span> | 4S 2021</li>
         </ul>
       <h2>Courses</h2>
         <ul>
-        <span>GEO210: "How the Internet Works: Digital Places and People"</span> | Instructor<br>
-        <span>GEO161: "Global Inequalities"</span> | Instructor<br>
-        <span>GEO109: "Digital Mapping"</span> | Teaching Assistant<br>
+        <li><span>GEO210: "How the Internet Works: Digital Places and People"</span> | Instructor</li>
+        <li><span>GEO161: "Global Inequalities"</span> | Instructor</li>
+        <li><span>GEO109: "Digital Mapping"</span> | Teaching Assistant</li>
         </ul>
+        <br>
+    <div class="footer">
+      <hr>
+      <a href="https://twitter.com/jacographer" target="_blank">@jacographer &#8605</a> | <a href="https://jacographer.com/portfolio">map portfolio &#8605</a> | <a href="https://geography.as.uky.edu/users/jsa324" target="_blank">academic profile &#8605</a>
+    </div>
 </body>
